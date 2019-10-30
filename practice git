@@ -1,0 +1,28 @@
+Type	Name	Latest commit message	Commit time
+.dependabot	Update dependabot config (#29560)	9 days ago
+.github	Drop support for Node.js 8. (#29496)	22 days ago
+build	Enable eslint no-console rule except for build directory (#29585)	6 days ago
+dist	Dist (#29484)	23 days ago
+js	Added animation when modal backdrop is static (#29516)	5 days ago
+nuget	Update popper.js to v1.16.0. (#29537)	10 days ago
+scss	Remove redundant "Navbar divider" from "Contents" (#29601)	2 days ago
+site	v5: Simplify navbars by requiring containers (#29339)	3 days ago
+.babelrc.js	Switch from QUnit to Jasmine.	3 months ago
+.browserslistrc	[WIP] Bump supported browsers for v5 (#28317)	6 months ago
+.editorconfig	Trim trailing whitespace from markdown files (#29460)	28 days ago
+.eslintignore	Ignore sw.js.	4 months ago
+.eslintrc.json	Remove unneeded ESLint suppression and regenerate lock file (#29593)	3 days ago
+.gitattributes	Revert "Simplify .gitattributes."	last year
+.gitignore	Make use of Hugo's 0.56+ module feature.	3 months ago
+.stylelintignore	Merge lint scripts (#29329)	2 months ago
+.stylelintrc	Update devDependencies and gems. (#28094)	9 months ago
+CODE_OF_CONDUCT.md	Use https when possible.	2 years ago
+LICENSE	Bump copyright year to 2019.	10 months ago
+README.md	README.md: link to the Actions page for Tests (#29480)	28 days ago
+SECURITY.md	Create SECURITY.md (#28288)	8 months ago
+bundlesize.config.json	Function map-get-multiple now returns the correct variable (#29247)	3 months ago
+composer.json	Remove "extra" section from composer.json (#29420)	28 days ago
+config.yml	Add link to Icons site in our docs (#29544)	13 days ago
+package-lock.json	Bump rollup from 1.25.2 to 1.26.0 (#29600)	3 days ago
+package.js	Remove jQuery from docs/repo.	8 months ago
+package.json	Bump rollup from 1.25.2 to 1.26.0 (#29600)	3 days ago
